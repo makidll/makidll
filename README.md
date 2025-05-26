@@ -48,10 +48,8 @@ Hi, I'm Maki
 </pre>
 <hr>
 
-## 🤝 Connect with me
-<p align="center">
-	<a href="mailto:bouaskaoun.makihex1122@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maki_ff4x) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@maki_ff4x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:makihex1122@gmail.com) 
 </p>
 
 ## 🛠️ My Favorite Tools
