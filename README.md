@@ -38,12 +38,12 @@ Hi, I'm Maki
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
+💻 I am a self Learning Developer
+📚 I have a Bachelors in Computer Science from Nepal
+📝 I have a strong interest in Deeloping appplication and webside designing.
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: HTML, JAVA, C , C# ,Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 </pre>
 <hr>
